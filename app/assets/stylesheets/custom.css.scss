@@ -1,0 +1,19 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+.jumbotron {
+    position: relative;
+    background: url("http://s21.postimg.org/6f5xz1btz/feet_hanging_off_building_compressor.jpg") center center;
+    width: 100%;
+    min-height: 600px;
+    background-size: cover;
+    overflow: hidden;
+}
+
+h2{
+  font-color: #FFFFFF;
+  font-family: "Palatino"
+}
