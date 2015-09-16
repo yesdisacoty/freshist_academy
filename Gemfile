@@ -8,6 +8,11 @@ gem 'sqlite3', group: [:development, :test]
 
 gem 'bootstrap-sass'
 
+# Use font awesome library for icons
+gem "font-awesome-rails"
+
+gem 'font-awesome-sass', '~> 4.4.0'
+
 #use postresql as database for production
 group :production do
   gem 'pg'
