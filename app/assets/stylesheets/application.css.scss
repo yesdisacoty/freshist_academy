@@ -14,26 +14,3 @@
  *= require_self
  */
 
-@import "bootstrap-sprockets";
-<<<<<<< HEAD
-@import  "bootstrap";
-=======
-@import "bootstrap";
-
-@import "font-awesome-sprockets";
-@import "font-awesome";
-
-.jumbotron {
-    position: relative;
-    background: url("http://s21.postimg.org/6f5xz1btz/feet_hanging_off_building_compressor.jpg") center center;
-    width: 100%;
-    min-height: 600px;
-    background-size: cover;
-    overflow: hidden;
-}
-
-h2{
-  color: #660000;
-  font-family: "Palatino"
-}
->>>>>>> development
