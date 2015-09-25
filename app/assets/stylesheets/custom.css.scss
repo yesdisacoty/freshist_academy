@@ -18,14 +18,16 @@ h2{
 }
 
 .well{
-  background: #72655E;
-  color: #FFFFFF;
+  background:transparent;
+  border:none;
   min-height: 400px;
   font-family: 'Courier-New';
+  font-color: #FFFFFF
 }
 
 .navbar{
    background:transparent;
+   border:none;
 }
 
 body{
